@@ -10,7 +10,7 @@
 
 <body>
     <div class="bg-dark py-3">
-        <h3 class="text-white text-center"> Laravel 11 CRUD</h3>
+        <h3 class="text-white text-center"> Laravel 11 Product Management</h3>
     </div>
     <div class="container">
         <div class="row justify-content-center mt-4">
